@@ -12,7 +12,7 @@
 student_results = []
 
 # Open the input file for reading
-with open(r"C:\Users\Monty\Downloads\Assignment2input.txt", "r") as file:
+with open("Assignment2input.txt", "r") as file:
 
 
     # Loop through each line in the file
